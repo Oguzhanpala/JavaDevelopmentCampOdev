@@ -1,0 +1,17 @@
+package conditionals;
+
+public class main {
+
+	public static void main(String[] args) {
+
+		int sayi=60;
+		if(sayi<50) {
+			System.out.println("sayı 50 den küçüktür.");
+		}
+		else {
+			System.out.println("sayı 50 den küçük değildir.");
+		}
+
+	}
+
+}
