@@ -3,38 +3,38 @@ package loopDemo;
 public class Main {
 
 	public static void main(String[] args) {
-		// for döngüsü
+		// for dÃ¶ngÃ¼sÃ¼
 		for (int i = 1; i < 10; i++) {
 			System.out.println(i);
 		}
-		System.out.println("döngü bitti");
+		System.out.println("dÃ¶ngÃ¼ bitti"); 
 
-		// tek sayılar
+		// tek sayÄ±lar
 		for (int i = 1; i < 10; i = i + 2) {
 			System.out.println(i);
 		}
 
-		// çift sayılar
+		// Ã§ift sayÄ±lar
 		for (int i = 0; i < 10; i = i + 2) {
 			System.out.println(i);
 		}
 
-		// while döngüsü
+		// while dÃ¶ngÃ¼sÃ¼
 		int i = 1;
 		while (i < 10) {
 			System.out.println(i);
 			i++;
 		}
-		System.out.println("while döngüsü bitti");
+		System.out.println("while dÃ¶ngÃ¼sÃ¼ bitti");
 
-		// do-while döngüsü
+		// do-while dÃ¶ngÃ¼sÃ¼
 		int j = 10;
 		do {
 			System.out.println(j);
 			j = j + 2;
 		} while (j < 5);
 
-		System.out.println("do-while döngüsü bitti");
+		System.out.println("do-while dÃ¶ngÃ¼sÃ¼ bitti");
 
 	}
 

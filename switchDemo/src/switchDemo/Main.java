@@ -7,19 +7,19 @@ public class Main {
 
 		switch (not) {
 		case 'A':
-			System.out.println("Çok iyi geçtiniz.");
+			System.out.println("Ã§ok iyi geÃ§tiniz.");
 			break;
 		case 'B':
-			System.out.println("iyi geçtiniz.");
+			System.out.println("iyi geÃ§tiniz.");
 			break;
 		case 'C':
-			System.out.println("normal geçtiniz.");
+			System.out.println("normal geÃ§tiniz.");
 			break;
 		case 'D':
-			System.out.println("kötü kaldınız.");
+			System.out.println("kÃ¶tÃ¼ kaldÄ±nÄ±z.");
 			break;
 		default:
-			System.out.println("hatalı not girdiniz.");
+			System.out.println("hatalÄ± not girdiniz.");
 		}
 
 	}

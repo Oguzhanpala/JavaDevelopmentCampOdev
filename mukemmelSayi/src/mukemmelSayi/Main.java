@@ -13,18 +13,18 @@ public class Main {
 			}
 		}
 		if (sayi == 1) {
-			System.out.println("mükemmel sayıdır.");
+			System.out.println("mÃ¼kemmel sayÄ±dÄ±r.");
 			return;
 		}
 
 		if (sayi < 1) {
-			System.out.println("Geçersiz sayı.");
+			System.out.println("GeÃ§ersiz sayÄ±.");
 			return;
 		}
 		if (toplam == sayi) {
-			System.out.println("Mükemmel sayıdır.");
+			System.out.println("MÃ¼kemmel sayÄ±dÄ±r.");
 		} else {
-			System.out.println("Mükemmel sayı değildir.");
+			System.out.println("MÃ¼kemmel sayÄ± deÄŸildir.");
 		}
 	}
 

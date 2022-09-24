@@ -16,9 +16,9 @@ public class Main {
 			}
 		}
 		if (varMi == true) {
-			System.out.println("sayi vardır");
+			System.out.println("sayi vardÄ±r");
 		} else {
-			System.out.println("sayı mevcut değil");
+			System.out.println("sayÄ± mevcut deÄŸil");
 		}
 	}
 }

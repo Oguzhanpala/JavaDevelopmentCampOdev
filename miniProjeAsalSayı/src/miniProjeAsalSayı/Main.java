@@ -1,4 +1,4 @@
-package miniProjeAsalSayı;
+package miniProjeAsalSayÄ±;
 
 public class Main {
 
@@ -8,12 +8,12 @@ public class Main {
 		boolean asalMi = true;
 
 		if (sayi == 1) {
-			System.out.println("Sayi asal değildir.");
+			System.out.println("Sayi asal deÄŸildir.");
 			return;
 		}
 
 		if (sayi < 1) {
-			System.out.println("Geçersiz sayı.");
+			System.out.println("GeÃ§ersiz sayÄ±.");
 			return;
 		}
 
@@ -23,10 +23,10 @@ public class Main {
 			}
 		}
 		if (asalMi == true) {
-			System.out.println("Sayı asaldır.");
+			System.out.println("SayÄ± asaldÄ±r.");
 
 		} else {
-			System.out.println("Sayı asal değildir.");
+			System.out.println("SayÄ± asal deÄŸildir.");
 		}
 
 	}

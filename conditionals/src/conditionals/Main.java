@@ -7,11 +7,11 @@ public class Main {
 		int sayi = 12;
 
 		if (sayi < 50) {
-			System.out.println("sayı 50 den küçüktür.");
+			System.out.println("sayÄ± 50 den kÃ¼Ã§Ã¼ktÃ¼r.");
 		} else if (sayi == 50) {
-			System.out.println("sayı 50 ye eşittir.");
+			System.out.println("sayÄ± 50 ye eÅŸittir.");
 		} else {
-			System.out.println("sayı 50 den büyüktür.");
+			System.out.println("sayÄ± 50 den bÃ¼yÃ¼ktÃ¼r.");
 		}
 
 	}

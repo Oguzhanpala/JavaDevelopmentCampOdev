@@ -17,8 +17,8 @@ public class Main {
 			total = total + number;
 			System.out.println(number);
 		}
-		System.out.println("sayıların toplamı : " + total);
-		System.out.println("en büyük sayı : " + max);
+		System.out.println("sayÄ±larÄ±n toplamÄ± : " + total);
+		System.out.println("en bÃ¼yÃ¼k sayÄ± : " + max);
 
 	}
 }

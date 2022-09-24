@@ -15,7 +15,7 @@ public class Main {
 			enBuyuk = sayi3;
 		}
 
-		System.out.println("En büyük : " + enBuyuk);
+		System.out.println("En bÃ¼yÃ¼k : " + enBuyuk);
 	}
 
 }

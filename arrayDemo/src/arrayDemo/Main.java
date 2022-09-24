@@ -19,7 +19,7 @@ public class Main {
 		String[] ogrenciler = new String[4];
 		ogrenciler[0] = "oğuzhan";
 		ogrenciler[1] = "mehmet";
-		ogrenciler[2] = "ayşe"; 
+		ogrenciler[2] = "ayşe";
 		ogrenciler[3] = "salih";
 
 		for (int i = 0; i < ogrenciler.length; i++) {

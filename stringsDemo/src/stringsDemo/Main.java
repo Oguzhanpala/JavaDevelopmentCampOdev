@@ -4,12 +4,12 @@ public class Main {
 
 	public static void main(String[] args) {
 
-		String mesaj = "Bugün hava çok güzel";
+		String mesaj = "BugÃ¼n hava Ã§ok gÃ¼zel";
 
 		System.out.println(mesaj);
-		System.out.println("eleman sayısı : " + mesaj.length());
+		System.out.println("eleman sayÄ±sÄ± : " + mesaj.length());
 		System.out.println("5.elaman : " + mesaj.charAt(4));
-		System.out.println(mesaj.concat(" yaşasın"));
+		System.out.println(mesaj.concat(" yaÅŸasÄ±n"));
 		System.out.println(mesaj.startsWith("B"));
 		System.out.println(mesaj.endsWith("l"));
 
@@ -22,7 +22,7 @@ public class Main {
 
 		String yeniMesaj = mesaj.replace(" ", "-");
 		System.out.println(yeniMesaj);
-		System.out.println(mesaj.substring(2, 5)); // 2 den başla 5 e kadar demek.
+		System.out.println(mesaj.substring(2, 5)); // 2 den baÅŸla 5 e kadar demek.
 		System.out.println("--------");
 
 		for (String kelime : mesaj.split(" ")) {
@@ -32,7 +32,7 @@ public class Main {
 		System.out.println(mesaj.toLowerCase());
 		System.out.println(mesaj.toUpperCase());
 
-		String mesaj2 = "        bügün hava çok güzel       ";
+		String mesaj2 = "        bugÃ¼n hava Ã§ok gÃ¼zel       ";
 		System.out.println(mesaj2.trim());
 	}
 
