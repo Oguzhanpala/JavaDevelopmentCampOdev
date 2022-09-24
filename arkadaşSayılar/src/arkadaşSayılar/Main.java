@@ -1,7 +1,6 @@
-package arkadaşSayılar;
+package arkadaÅŸSayÄ±lar;
 
 public class Main {
-
 	public static void main(String[] args) {
 
 		int sayi1 = 220;
@@ -22,9 +21,9 @@ public class Main {
 		}
 
 		if (sayi1 == toplam2 && sayi2 == toplam1) {
-			System.out.println("Kardeş sayılardır.");
+			System.out.println("KardeÅŸ sayÄ±lardÄ±r.");
 		} else {
-			System.out.println("Kardeş sayı değillerdir.");
+			System.out.println("KardeÅŸ sayÄ± deÄŸillerdir.");
 		}
 
 	}
