@@ -4,19 +4,14 @@ public class Main {
 
 	public static void main(String[] args) {
 
-		int sayi=12;
-		
-		if(sayi<50) 
-		{
-			System.out.println("sayÄ± 50 den kÃ¼Ã§Ã¼ktÃ¼r.");
-		}
-		else if(sayi==50)
-		{
-			System.out.println("sayÄ± 50 ye eÅŸittir.");
-		}
-		else 
-		{
-			System.out.println("sayÄ± 50 den bÃ¼yÃ¼ktÃ¼r.");
+		int sayi = 12;
+
+		if (sayi < 50) {
+			System.out.println("sayý 50 den küçüktür.");
+		} else if (sayi == 50) {
+			System.out.println("sayý 50 ye eþittir.");
+		} else {
+			System.out.println("sayý 50 den büyüktür.");
 		}
 
 	}

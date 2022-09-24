@@ -3,41 +3,38 @@ package loopDemo;
 public class Main {
 
 	public static void main(String[] args) {
-		//for d√∂ng√ºs√º
-		for(int i=1; i<10; i++) {
+		// for dˆng¸s¸
+		for (int i = 1; i < 10; i++) {
 			System.out.println(i);
 		}
-		System.out.println("d√∂ng√º bitti");
-		
-		// tek sayƒ±lar
-		for(int i=1; i<10; i=i+2) {
+		System.out.println("dˆng¸ bitti");
+
+		// tek say˝lar
+		for (int i = 1; i < 10; i = i + 2) {
 			System.out.println(i);
 		}
-		
-		//√ßift sayƒ±lar
-		for(int i=0; i<10; i=i+2) {
+
+		// Áift say˝lar
+		for (int i = 0; i < 10; i = i + 2) {
 			System.out.println(i);
 		}
-		
-		
-		
-		//while d√∂ng√ºs√º
-		int i=1;
-		while(i<10) {
+
+		// while dˆng¸s¸
+		int i = 1;
+		while (i < 10) {
 			System.out.println(i);
 			i++;
 		}
-		System.out.println("while d√∂ng√ºs√º bitti");
+		System.out.println("while dˆng¸s¸ bitti");
 
-		
-		//do-while d√∂ng√ºs√º
-		int j=10;
+		// do-while dˆng¸s¸
+		int j = 10;
 		do {
 			System.out.println(j);
-			j=j+2;
-		} while(j<5);
-		
-		System.out.println("do-while d√∂ng√ºs√º bitti");
+			j = j + 2;
+		} while (j < 5);
+
+		System.out.println("do-while dˆng¸s¸ bitti");
 
 	}
 

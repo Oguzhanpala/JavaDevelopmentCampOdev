@@ -6,9 +6,9 @@ public class Main {
 		byte sayi1 = 10;
 		int sayi2 = 121454452;
 		double sayi3 = 1.5;
-		char karakter ='O';
-		String isim ="OÄŸuzhan";
-		boolean dogruMu=false;
+		char karakter = 'O';
+		String isim = "Oðuzhan";
+		boolean dogruMu = false;
 
 	}
 

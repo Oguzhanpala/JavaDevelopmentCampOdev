@@ -4,22 +4,21 @@ public class Main {
 
 	public static void main(String[] args) {
 
-		int[] sayilar = new int[] {1,2,5,7,9,0};
-		int aranacak=1;
-		
-		boolean varMı=false;
-		
-		for(int sayi:sayilar) {
-			if(sayi==aranacak) {
-				varMı=true;
+		int[] sayilar = new int[] { 1, 2, 5, 7, 9, 0 };
+		int aranacak = 1;
+
+		boolean varMi = false;
+
+		for (int sayi : sayilar) {
+			if (sayi == aranacak) {
+				varMi = true;
 				break;
 			}
 		}
-		if(varMı==true) {
-			System.out.println("sayi vardır");
-		}
-		else {
-			System.out.println("sayı mevcut değil");
+		if (varMi == true) {
+			System.out.println("sayi vard�r");
+		} else {
+			System.out.println("say� mevcut de�il");
 		}
 	}
 }
