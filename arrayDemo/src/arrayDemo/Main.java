@@ -4,9 +4,9 @@ public class Main {
 
 	public static void main(String[] args) {
 
-		String ogrenci1 = "oðuzhan";
+		String ogrenci1 = "oÄŸuzhan";
 		String ogrenci2 = "mehmet";
-		String ogrenci3 = "ayþe";
+		String ogrenci3 = "ayÅŸe";
 		String ogrenci4 = "hatice";
 
 		System.out.println(ogrenci1);
@@ -17,9 +17,9 @@ public class Main {
 		System.out.println("----------------------");
 
 		String[] ogrenciler = new String[4];
-		ogrenciler[0] = "oðuzhan";
+		ogrenciler[0] = "oÄŸuzhan";
 		ogrenciler[1] = "mehmet";
-		ogrenciler[2] = "ayþe";
+		ogrenciler[2] = "ayÅŸe"; 
 		ogrenciler[3] = "salih";
 
 		for (int i = 0; i < ogrenciler.length; i++) {
